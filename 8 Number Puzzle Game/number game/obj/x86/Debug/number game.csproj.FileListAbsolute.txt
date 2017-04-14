@@ -1,0 +1,18 @@
+c:\users\faiq\documents\visual studio 2010\Projects\number game\number game\bin\Debug\number game.exe
+c:\users\faiq\documents\visual studio 2010\Projects\number game\number game\bin\Debug\number game.pdb
+c:\users\faiq\documents\visual studio 2010\Projects\number game\number game\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\faiq\documents\visual studio 2010\Projects\number game\number game\obj\x86\Debug\number_game.Form1.resources
+c:\users\faiq\documents\visual studio 2010\Projects\number game\number game\obj\x86\Debug\number_game.Properties.Resources.resources
+c:\users\faiq\documents\visual studio 2010\Projects\number game\number game\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\faiq\documents\visual studio 2010\Projects\number game\number game\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\faiq\documents\visual studio 2010\Projects\number game\number game\obj\x86\Debug\number game.exe
+c:\users\faiq\documents\visual studio 2010\Projects\number game\number game\obj\x86\Debug\number game.pdb
+C:\Users\Leo\Desktop\number game\number game\obj\x86\Debug\number game.exe
+C:\Users\Leo\Desktop\number game\number game\obj\x86\Debug\number game.pdb
+C:\Users\Leo\Desktop\number game\number game\bin\Debug\number game.exe
+C:\Users\Leo\Desktop\number game\number game\bin\Debug\number game.pdb
+C:\Users\Leo\Desktop\number game\number game\obj\x86\Debug\number_game.Form1.resources
+C:\Users\Leo\Desktop\number game\number game\obj\x86\Debug\number_game.Properties.Resources.resources
+C:\Users\Leo\Desktop\number game\number game\obj\x86\Debug\number game.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\C# programs\number game\number game\obj\x86\Debug\number game.exe
+C:\Users\Admin\Desktop\C# programs\number game\number game\obj\x86\Debug\number game.pdb
